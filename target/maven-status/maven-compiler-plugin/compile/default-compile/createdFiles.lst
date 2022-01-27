@@ -1,0 +1,5 @@
+net/breezeware/sfgdi/services/GreetingServices.class
+net/breezeware/sfgdi/impl/GreetingServiceImpl.class
+net/breezeware/sfgdi/SfgDiApplication.class
+net/breezeware/sfgdi/controllers/PropertyInjectedController.class
+net/breezeware/sfgdi/controllers/MyController.class
